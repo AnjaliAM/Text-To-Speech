@@ -33,4 +33,21 @@ In Conda also it’s easy
 pip install -r requirements.txt
 
 ## WORKFLOW DIAGRAM
+![workflow](https://github.com/AnjaliAM/Text-To-Speech/blob/main/images/workflow-d.jpg)
+
+## IMPLEMENTATION
+1. Project Directory
+2. requirements.txt
+3. textToSpeech.py
+4. clientApp.py
+
+This file contains the script to convert the digital text to speech using gtts.
+## TESTING IN LOCAL/API
+To run this project in your local system just run the file clientApp.py and webserver will start and landing page will open at  http://0.0.0.0:5000/
+
+# CONCLUSION
+Hence we have successfully converted digital text data data in audio data or speech.
+
+# COMPARISION
+Here we can improve the results by testing with other APIs which are available from diffrent third party sources or try out deep learning approaches.
 
