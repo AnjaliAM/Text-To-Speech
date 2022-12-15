@@ -37,13 +37,33 @@ pip install -r requirements.txt
 
 ## IMPLEMENTATION
 1. Project Directory
+
+
+![implentation](https://github.com/AnjaliAM/Text-To-Speech/blob/main/images/implementation-1.png)
+
 2. requirements.txt
+
+
+![implentation](https://github.com/AnjaliAM/Text-To-Speech/blob/main/images/implementation-2.png)
+
+
+
 3. textToSpeech.py
+
+![implentation](https://github.com/AnjaliAM/Text-To-Speech/blob/main/images/implementation-3.png)
+
+
 4. clientApp.py
+
+![implentation](https://github.com/AnjaliAM/Text-To-Speech/blob/main/images/implementation-4.png)
 
 This file contains the script to convert the digital text to speech using gtts.
 ## TESTING IN LOCAL/API
 To run this project in your local system just run the file clientApp.py and webserver will start and landing page will open at  http://0.0.0.0:5000/
+
+
+![implentation](https://github.com/AnjaliAM/Text-To-Speech/blob/main/images/implementation-5.png)
+
 
 # CONCLUSION
 Hence we have successfully converted digital text data data in audio data or speech.
