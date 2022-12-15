@@ -1,6 +1,6 @@
-## TEXT to SPEECH
+# TEXT to SPEECH
 
-# PROBLEM STAEMENT
+## PROBLEM STATEMENT
 In this project our goal is to acheive the problem of converting textual data into speech data.
 
 
